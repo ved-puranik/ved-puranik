@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Education](https://img.shields.io/badge/UT%20Austin-B.S.%20Computer%20Science%20(In%20Progress)-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Education](https://img.shields.io/badge/UT%20Austin-B.S.%20Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Location-Austin%2C%20TX-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
