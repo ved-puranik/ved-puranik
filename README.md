@@ -205,20 +205,6 @@ Add a professional description of your role and responsibilities here.
 
 ---
 
-## ☞ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 Momentum Hackathon | Built MediCoin — decentralized science funding platform with agentic milestone verification |
-| 🌟 Open Source Contributor | Add details about your open source contributions |
-| 🎓 Academic Excellence | Add your academic achievements |
-
-</div>
-
----
-
 ## ☞ Coding Profiles
 
 <div align="center">
